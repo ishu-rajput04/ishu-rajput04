@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ishu-rajput04
+- 👋 Hi, I’m ishu-rajput
 - 👀 I’m interested in fullstack developer and cybersecurity.
 - 🌱 I’m currently learning javascript,machine learning,python...
 - 💞️ I’m looking to collaborate on --> Exciting open-source projects, particularly those involving fullstack development and cyber security.
