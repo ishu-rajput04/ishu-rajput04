@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ishu-rajput
 - 👀 I’m interested in fullstack developer and cybersecurity.
-- 🌱 I’m currently learning DSA,javascript,machine learning,python...
+- 🌱 I’m currently learning DSA,Backend,machine learning,python...
 - 💞️ I’m looking to collaborate on --> Exciting open-source projects, particularly those involving fullstack development and cyber security.
 - 📫 How to reach me:{email:-official.ishurajput04@gmail.com}
 - 😄 Pronouns: he/him
