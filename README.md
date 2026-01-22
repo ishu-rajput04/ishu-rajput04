@@ -5,7 +5,7 @@
 - 📫 How to reach me:{email:-ishurajput8057@gmail.com}
 - 🔗 LinkedIn: https://www.linkedin.com/in/ishu-rajput-dev/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:"Along with programming, I also cook food well."
+- ⚡ Fun fact:"Along with programming, I also cook well."
 
 
 # 👨‍💻💻Skills & Technologies
